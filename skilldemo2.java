@@ -1,5 +1,7 @@
 public class skilldemo2{
 
-//add the required files
+public static int addition(int n,int m){
+    return m+n;
+}
 
 }
